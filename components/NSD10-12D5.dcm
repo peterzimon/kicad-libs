@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NSD10-12D5
+D Isolated DC/DC Converters 12Vin 5V1A -5V1A 10W
+K
+F https://www.meanwell.com/Upload/PDF/NSD10-D/NSD10-D-SPEC.PDF
+$ENDCMP
+#
+#End Doc Library
