@@ -47,7 +47,7 @@
     (solder_mask_margin 0.102) (tstamp 44d7f5b2-93cf-4fcf-a0ad-21d50112249c))
   (pad "12" thru_hole circle (at 2.87289 10.7218) (size 2.25 2.25) (drill 1.5) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp fb9e03c4-1607-4b28-b26d-13ace9fd6eec))
-  (pad "14" thru_hole circle (at -3.325 1.925) (size 2.25 2.25) (drill 1.5) (layers "*.Cu" "*.Mask")
+  (pad "13" thru_hole circle (at -3.325 1.925) (size 2.25 2.25) (drill 1.5) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp f839662f-1f49-4a55-abfe-c25916585298))
   (pad "14" thru_hole circle (at 0 -3.85) (size 2.25 2.25) (drill 1.5) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp 18e27bb0-3710-4a5b-82f1-7891ce37745c))
